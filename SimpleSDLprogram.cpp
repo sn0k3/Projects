@@ -1,5 +1,5 @@
 /* Author: Sn0k3 */
-/* It is simple SDL window :P */
+/* It is simple SDL window and loads img :P */
 #include <SDL/SDL.h>
 
 int main(int argc, char*argv[])
