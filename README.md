@@ -1,4 +1,4 @@
-ProjectsEtc
+Projects /mini projects/
 ===========
 
 Here will be things like "mini" games, apps and other things..
