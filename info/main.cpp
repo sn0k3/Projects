@@ -45,7 +45,7 @@ void info()
     cout << "|Information about me|" << endl;
     cout << "----------------------" << endl;
     cout << "Name: Hristo" << endl;
-    cout << "mail: ih999@abv.bg" << endl;
+    cout << "mail: ih999 [at] abv [dot] bg" << endl;
     cout << "tumblr: ico0y.tumblr.com" << endl;
     cout << "GitHub: sn0k3" << endl;
 }
